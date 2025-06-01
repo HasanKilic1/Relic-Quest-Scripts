@@ -15,7 +15,7 @@ Relic Quest is an action-packed top-down roguelike game inspired by Vampire Surv
 
 ♻️ Replayability – No two runs feel the same thanks to randomized relics and scaling difficulty
 
-
+### Youtube trailer link => https://www.youtube.com/watch?v=xj-vZu7udOM
 ## Screenshots
 - ![relic quest ss](https://github.com/user-attachments/assets/1dcdcc3d-bfa3-4a19-a892-9d243a9d9000)
 - ![relic quest ss2](https://github.com/user-attachments/assets/6bcbb2c9-bddc-4323-b10f-649c333fdeb4)
