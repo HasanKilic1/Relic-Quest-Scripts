@@ -1,2 +1,2 @@
 # Relic-Quest-Scripts
-All scripts of game Relic Quest - Hasan Kılıç
+All scripts of my game Project Relic Quest - Hasan Kılıç
