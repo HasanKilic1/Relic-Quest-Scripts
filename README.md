@@ -17,7 +17,10 @@ Relic Quest is an action-packed top-down roguelike game inspired by Vampire Surv
 ♻️ Replayability – No two runs feel the same thanks to randomized relics and scaling difficulty
 
 ## 🧑‍💻 Developer Notes
-This project was fully developed by Hasan Kılıç. It represents my core game architecture, system design and gameplay programming skills.
+* This project was fully developed by Hasan Kılıç. It represents my core game architecture, system design and gameplay programming skills.
+* Received positive player feedback during early testing and playtests.
+* Got in touch with **Voodoo**, one of the biggest mobile game publishers, thanks to the game's potential.
+* I am currently iterating on the core gameplay and seeking opportunities for publishing and scaling this project further.
 
 ## 🧪 Key Learning Outcomes
 - Building scalable upgrade/relic architecture
